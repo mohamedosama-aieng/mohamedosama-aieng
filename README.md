@@ -157,10 +157,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamedosama-aieng&theme=radical" alt="Profile Details" width="48%" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commits-per-language?username=mohamedosama-aieng&theme=radical" alt="Commits per Language" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohamedosama-aieng&theme=radical" alt="GitHub Stats Card" width="48%" />
-</p>
-<p align="center">
   <a href="https://github.com/mohamedosama-aieng?tab=repositories">
     <img src="https://img.shields.io/badge/View%20All%20Projects-GitHub-181717?style=for-the-badge&logo=github" alt="View Projects" />
   </a>

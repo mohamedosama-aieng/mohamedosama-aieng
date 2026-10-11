@@ -153,10 +153,10 @@
 ## 🏆 Professional Achievements & Metrics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamedosama-aieng&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" width="100%" />
+  <a href="https://skyline.github.com/mohamedosama-aieng">
+    <img src="https://skyline.github.com/mohamedosama-aieng/2024.svg" alt="GitHub Skyline" width="100%" />
+  </a>
 </p>
-
-<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=25px>
 
 ## 📈 Advanced Statistics
 

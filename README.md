@@ -153,9 +153,23 @@
 ## 🏆 Professional Achievements & Metrics
 
 <p align="center">
-  <a href="https://skyline.github.com/mohamedosama-aieng">
-    <img src="https://skyline.github.com/mohamedosama-aieng/2024.svg" alt="GitHub Skyline" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedosama-aieng&repo=mohamedosama-aieng&theme=radical&hide_border=true" alt="Profile Repository" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamedosama-aieng&theme=radical" alt="Profile Details" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commits-per-language?username=mohamedosama-aieng&theme=radical" alt="Commits per Language" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohamedosama-aieng&theme=radical" alt="GitHub Stats Card" width="48%" />
+</p>
+<p align="center">
+  <a href="https://github.com/mohamedosama-aieng?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Projects-GitHub-181717?style=for-the-badge&logo=github" alt="View Projects" />
   </a>
+</p>
+
+### 📌 Pinned Repositories
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedosama-aieng&repo=reel-studio&theme=radical&hide_border=true" alt="Reel Studio" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedosama-aieng&repo=FB-Tools&theme=radical&hide_border=true" alt="FB-Tools" width="48%" />
 </p>
 
 ## 📈 Advanced Statistics

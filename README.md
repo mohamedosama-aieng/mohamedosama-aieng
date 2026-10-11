@@ -150,8 +150,18 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohamedosama-aieng&theme=radical&utcOffset=2" alt="Productive Time" width="48%" />
 </p>
 
+## 🏆 Professional Achievements
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedosama-aieng&theme=radical&hide_border=true&area=true" alt="Activity Graph" width="98%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mohamedosama-aieng&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" width="100%" />
+</p>
+
+<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=25px>
+
+## 📈 Contribution Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mohamedosama-aieng&theme=radical&hide_border=true" alt="Wakatime Stats" width="98%" />
 </p>
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=25px>
